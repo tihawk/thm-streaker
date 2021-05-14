@@ -1,0 +1,24 @@
+{
+  "name": "thm-streaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tihawk/thm-streaker.git"
+  },
+  "author": "Kiril P. Blagoev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tihawk/thm-streaker/issues"
+  },
+  "homepage": "https://github.com/tihawk/thm-streaker#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "mailgun-js": "^0.22.0",
+    "puppeteer": "^9.1.1"
+  }
+}
